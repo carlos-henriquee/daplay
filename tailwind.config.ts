@@ -9,9 +9,13 @@ export default {
   theme: {
     extend: {
       colors: {
+        cinza_preto: "rgba(34,34,37,1)",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      sapcing: {
+        '160': "160%"
+      }
     },
   },
   plugins: [],

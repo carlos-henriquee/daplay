@@ -1,0 +1,55 @@
+{
+    "films":[
+        {
+            "id":1,
+            "title":"Homem-Aranha: Através do Aranhaverso",
+            "sinopse":"Depois de se reunir com Gwen Stacy, Homem-Aranha é jogado no multiverso. Lá, o super-herói aracnídeo encontra uma numerosa equipe encarregada de proteger sua própria existência.",
+            "genero": "Ação/Comédia",
+            "classificaçao_indicativa":10,
+            "imagem":"https://www.sonypictures.com.br/sites/brazil/files/tittle-page/thumbnails/SN_HomemAranha_576x313.jpg",
+            "endereço_do_filme": "https://www.primevideo.com/-/pt/detail/Homem-Aranha-Atrav%C3%A9s-do-Aranhaverso/0L4QVOMW7FOANL3BIIWM2K39M7",
+            "ano_de_lançamento": 2023 
+            
+        },
+        {
+            "id":2,
+            "title":"Homem-Aranha no Aranhaverso",
+            "sinopse":"Após ser atingido por uma teia radioativa, Miles Morales, um jovem negro do Brooklyn, se torna o Homem-Aranha, inspirado no legado do já falecido Peter Parker. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói por baixo de um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha.",
+            "genero": "Infantil/Ação",
+            "classificaçao_indicativa":10,
+            "imagem":"https://www.casadosquadrinhos.com.br/wp-content/uploads/2023/05/imagem-destacada-A-2.png",
+            "endereço_do_filme": "https://www.primevideo.com/-/pt/detail/Homem-Aranha-No-Aranhaverso/0N4PINHO6IMM8J6G1VVZZUWBOL",
+            "ano_de_lançamento": 2018
+        },
+        {
+            "id":3,
+            "title":"O Espetacular Homem-Aranha",
+            "sinopse":"O jovem Peter Parker quer saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e tenta descobrir por que seus pais desapareceram. A sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alter ego o letal Lagarto.",
+            "genero": "Ação/Ficção científica",
+            "classificaçao_indicativa":10,
+            "imagem":"https://wallpapers.com/images/hd/andrew-garfield-spider-man-j7ykxsb1fdz6g4yj.jpg",
+            "endereço_do_filme": "https://www.primevideo.com/dp/0GYYO7JLQ240CSD018QL5BQW9B?ref_=dvm_pds_tit_br_sw_s_g_mkw_sTnr3AozC0f-dc&mrntrk=pcrid_725968440696_slid__pgrid_167556656330_pgeo_1031594_x__adext__ptid_kwd-1747672296211&_mkw_sTnr3AozC0f-dc&mrntrk=pcrid_725968440696_slid__pgrid_167556656330_pgeo_1031594_x__adext__ptid_kwd-1747672296211&gad_source=1&gclid=Cj0KCQiAsaS7BhDPARIsAAX5cSAXfvKD99TBk4K-9HI_RhDpuTFoPXQD6ppoEjUC03-hgUNbaywLV1QaAklaEALw_wcB&gclsrc=aw.ds",
+            "ano_de_lançamento": 2012
+        },
+        {
+            "id":4,
+            "title":"Batman: O Cavaleiro das Trevas Ressurge",
+            "sinopse":"Após ser culpado pela morte de Harvey Dent e passar de herói a vilão, Batman desaparece. As coisas mudam com a chegada de uma ladra misteriosa, a Mulher-Gato, e Bane, um terrorista mascarado, que fazem Batman abandonar seu exílio forçado.",
+            "genero": "Ação/Thriller",
+            "classificaçao_indicativa":12,
+            "imagem":"https://wallpapers.com/images/hd/dark-knight-hd-kyhwt7kiwonapdy2.jpg",
+            "endereço_do_filme": "https://www.max.com/br/pt/movies/batman-o-cavaleiro-das-trevas-ressurge/6ce5965d-cdb2-4f9c-b22b-ae7a091d95a8?utm_source=universal_search",
+            "ano_de_lançamento": 2012
+        },
+        {
+            "id":5,
+            "title":"O Ilusionista",
+            "sinopse":"Um mágico chamado Eisenheim compete com o Príncipe Leopoldo, herdeiro do trono do Império Austro-Húngaro, pelo amor da nobre Sophie, a jovem que Eisenheim amou na juventude. Ele utiliza seus grandes poderes para pressionar o príncipe, já que Sophie está prestes a se tornar a noiva real. No entanto, um inspetor de polícia chamado Walter Uhl tenta avisar Eisenheim que ele está entrando em um jogo muito perigoso.",
+            "genero": "Romance/Thriller",
+            "classificaçao_indicativa":14,
+            "imagem":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnWhuY1aUVKOeloPDuGRZdMq8n0Tcrk83do2-_NmG0fl4Nrw45H7zOFfCu0cFxGuEP-MAum_CfpHuA6SHT-NYn2SwQnCzrh5pNXhzCkVT_phqT7jEqmbln3ophGO71xj0-Xi8WINXSPPTq/s1600/o-ilusionista.jpg",
+            "endereço_do_filme": "https://www.primevideo.com/detail/O-Ilusionista/0L477KOBL36VYNZEWH1JEOSJ49",
+            "ano_de_lançamento": 2006
+        }
+    ]
+}
