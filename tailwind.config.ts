@@ -15,6 +15,12 @@ export default {
       },
       sapcing: {
         '160': "160%"
+      },
+      theme: {
+        'seta':'2px -2px 0 1px #000 inset'
+      },
+      boxShadow: {
+        'custom': '4px 4px 10px rgba(255, 255, 255, 1)'
       }
     },
   },
