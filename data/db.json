@@ -1,60 +1,70 @@
 {
-    "films":[
-        {
-            "id":1,
-            "title":"Homem-Aranha: Através do Aranhaverso",
-            "sinopse":"Depois de se reunir com Gwen Stacy, Homem-Aranha é jogado no multiverso. Lá, o super-herói aracnídeo encontra uma numerosa equipe encarregada de proteger sua própria existência.",
-            "genero": "Ação/Comédia",
-            "classificacao_indicativa":10,
-            "imagem":"C:/Users/Carlos/Desktop/ferias-projects/daplay/public/films_images/homem_aranha_atraves_do_aranhaverso.jpg",
-            "endereco_do_filme": "https://www.primevideo.com/-/pt/detail/Homem-Aranha-Atrav%C3%A9s-do-Aranhaverso/0L4QVOMW7FOANL3BIIWM2K39M7",
-            "ano_de_lancamento": 2023,
-            "views": 0 
-            
-        },
-        {
-            "id":2,
-            "title":"Homem-Aranha no Aranhaverso",
-            "sinopse":"Após ser atingido por uma teia radioativa, Miles Morales, um jovem negro do Brooklyn, se torna o Homem-Aranha, inspirado no legado do já falecido Peter Parker. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói por baixo de um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha.",
-            "genero": "Infantil/Ação",
-            "classificacao_indicativa":10,
-            "imagem":"C:/Users/Carlos/Desktop/ferias-projects/daplay/public/films_images/homem_aranha_no_aranhaverso.jpg",
-            "endereco_do_filme": "https://www.primevideo.com/-/pt/detail/Homem-Aranha-No-Aranhaverso/0N4PINHO6IMM8J6G1VVZZUWBOL",
-            "ano_de_lancamento": 2018,
-            "views": 0 
-        },
-        {
-            "id":3,
-            "title":"O Espetacular Homem-Aranha",
-            "sinopse":"O jovem Peter Parker quer saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e tenta descobrir por que seus pais desapareceram. A sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alter ego o letal Lagarto.",
-            "genero": "Ação/Ficção científica",
-            "classificacao_indicativa":10,
-            "imagem":"C:/Users/Carlos/Desktop/ferias-projects/daplay/public/films_images/o_espetacular_homem_aranha.jpg",
-            "endereco_do_filme": "https://www.primevideo.com/dp/0GYYO7JLQ240CSD018QL5BQW9B?ref_=dvm_pds_tit_br_sw_s_g_mkw_sTnr3AozC0f-dc&mrntrk=pcrid_725968440696_slid__pgrid_167556656330_pgeo_1031594_x__adext__ptid_kwd-1747672296211&_mkw_sTnr3AozC0f-dc&mrntrk=pcrid_725968440696_slid__pgrid_167556656330_pgeo_1031594_x__adext__ptid_kwd-1747672296211&gad_source=1&gclid=Cj0KCQiAsaS7BhDPARIsAAX5cSAXfvKD99TBk4K-9HI_RhDpuTFoPXQD6ppoEjUC03-hgUNbaywLV1QaAklaEALw_wcB&gclsrc=aw.ds",
-            "ano_de_lancamento": 2012,
-            "views": 0 
-        },
-        {
-            "id":4,
-            "title":"Batman: O Cavaleiro das Trevas Ressurge",
-            "sinopse":"Após ser culpado pela morte de Harvey Dent e passar de herói a vilão, Batman desaparece. As coisas mudam com a chegada de uma ladra misteriosa, a Mulher-Gato, e Bane, um terrorista mascarado, que fazem Batman abandonar seu exílio forçado.",
-            "genero": "Ação/Thriller",
-            "classificacao_indicativa":12,
-            "imagem":"C:/Users/Carlos/Desktop/ferias-projects/daplay/public/films_images/o_cavaleiro_das_trevas_ressurge.jpg",
-            "endereco_do_filme": "https://www.max.com/br/pt/movies/batman-o-cavaleiro-das-trevas-ressurge/6ce5965d-cdb2-4f9c-b22b-ae7a091d95a8?utm_source=universal_search",
-            "ano_de_lancamento": 2012,
-            "views": 0 
-        },
-        {
-            "id":5,
-            "title":"O Ilusionista",
-            "sinopse":"Um mágico chamado Eisenheim compete com o Príncipe Leopoldo, herdeiro do trono do Império Austro-Húngaro, pelo amor da nobre Sophie, a jovem que Eisenheim amou na juventude. Ele utiliza seus grandes poderes para pressionar o príncipe, já que Sophie está prestes a se tornar a noiva real. No entanto, um inspetor de polícia chamado Walter Uhl tenta avisar Eisenheim que ele está entrando em um jogo muito perigoso.",
-            "genero": "Romance/Thriller",
-            "classificacao_indicativa":14,
-            "imagem":"C:/Users/Carlos/Desktop/ferias-projects/daplay/public/films_images/o_ilusionista.jpg",
-            "endereco_do_filme": "https://www.primevideo.com/detail/O-Ilusionista/0L477KOBL36VYNZEWH1JEOSJ49",
-            "ano_de_lancamento": 2006,
-            "views": 0 
-        }
-    ]
+  "films": [
+    {
+      "id": "1",
+      "title": "Homem-Aranha: Através do Aranhaverso",
+      "sinopse": "Depois de se reunir com Gwen Stacy, Homem-Aranha é jogado no multiverso. Lá, o super-herói aracnídeo encontra uma numerosa equipe encarregada de proteger sua própria existência.",
+      "genero": "Ação/Comédia",
+      "classificacao_indicativa": 10,
+      "imagem": "https://m.media-amazon.com/images/S/pv-target-images/7bac8684a6962bb7b21c921adc42ab2f3717df7d8f62ce7ea01f3bc5ef6f5666.jpg",
+      "endereco_do_filme": "https://www.primevideo.com/-/pt/detail/Homem-Aranha-Atrav%C3%A9s-do-Aranhaverso/0L4QVOMW7FOANL3BIIWM2K39M7",
+      "ano_de_lancamento": 2023,
+      "views": 2
+    },
+    {
+      "id": "2",
+      "title": "Homem-Aranha no Aranhaverso",
+      "sinopse": "Após ser atingido por uma teia radioativa, Miles Morales, um jovem negro do Brooklyn, se torna o Homem-Aranha, inspirado no legado do já falecido Peter Parker. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói por baixo de um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha.",
+      "genero": "Infantil/Ação",
+      "classificacao_indicativa": 10,
+      "imagem": "https://s2.glbimg.com/ugIp7108pC_WOMjwvwsRZSlMwhQ=/e.glbimg.com/og/ed/f/original/2019/01/08/download.jpg",
+      "endereco_do_filme": "https://www.primevideo.com/-/pt/detail/Homem-Aranha-No-Aranhaverso/0N4PINHO6IMM8J6G1VVZZUWBOL",
+      "ano_de_lancamento": 2018,
+      "views": 0
+    },
+    {
+      "id": "3",
+      "title": "O Espetacular Homem-Aranha",
+      "sinopse": "O jovem Peter Parker quer saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e tenta descobrir por que seus pais desapareceram. A sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alter ego o letal Lagarto.",
+      "genero": "Ação/Ficção científica",
+      "classificacao_indicativa": 10,
+      "imagem": "https://wallpapers.com/images/hd/andrew-garfield-spider-man-j7ykxsb1fdz6g4yj.jpg",
+      "endereco_do_filme": "https://www.primevideo.com/dp/0GYYO7JLQ240CSD018QL5BQW9B?ref_=dvm_pds_tit_br_sw_s_g_mkw_sTnr3AozC0f-dc&mrntrk=pcrid_725968440696_slid__pgrid_167556656330_pgeo_1031594_x__adext__ptid_kwd-1747672296211&_mkw_sTnr3AozC0f-dc&mrntrk=pcrid_725968440696_slid__pgrid_167556656330_pgeo_1031594_x__adext__ptid_kwd-1747672296211&gad_source=1&gclid=Cj0KCQiAsaS7BhDPARIsAAX5cSAXfvKD99TBk4K-9HI_RhDpuTFoPXQD6ppoEjUC03-hgUNbaywLV1QaAklaEALw_wcB&gclsrc=aw.ds",
+      "ano_de_lancamento": 2012,
+      "views": 0
+    },
+    {
+      "id": "4",
+      "title": "Batman: O Cavaleiro das Trevas Ressurge",
+      "sinopse": "Após ser culpado pela morte de Harvey Dent e passar de herói a vilão, Batman desaparece. As coisas mudam com a chegada de uma ladra misteriosa, a Mulher-Gato, e Bane, um terrorista mascarado, que fazem Batman abandonar seu exílio forçado.",
+      "genero": "Ação/Thriller",
+      "classificacao_indicativa": 12,
+      "imagem": "https://clubecinema.com.br/wp-content/uploads/2014/11/bat3.jpg",
+      "endereco_do_filme": "https://www.max.com/br/pt/movies/batman-o-cavaleiro-das-trevas-ressurge/6ce5965d-cdb2-4f9c-b22b-ae7a091d95a8?utm_source=universal_search",
+      "ano_de_lancamento": 2012,
+      "views": 1
+    },
+    {
+      "id": "5",
+      "title": "O Ilusionista",
+      "sinopse": "Um mágico chamado Eisenheim compete com o Príncipe Leopoldo, herdeiro do trono do Império Austro-Húngaro, pelo amor da nobre Sophie, a jovem que Eisenheim amou na juventude. Ele utiliza seus grandes poderes para pressionar o príncipe, já que Sophie está prestes a se tornar a noiva real. No entanto, um inspetor de polícia chamado Walter Uhl tenta avisar Eisenheim que ele está entrando em um jogo muito perigoso.",
+      "genero": "Romance/Thriller",
+      "classificacao_indicativa": 14,
+      "imagem": "https://i.ytimg.com/vi/BXsH868X59U/maxresdefault.jpg",
+      "endereco_do_filme": "https://www.primevideo.com/detail/O-Ilusionista/0L477KOBL36VYNZEWH1JEOSJ49",
+      "ano_de_lancamento": 2006,
+      "views": 10
+    },
+    {
+      "id": "6",
+      "title": "O Jogo da Imitação",
+      "sinopse": "Em 1939, a recém-criada agência de inteligência britânica MI6 recruta Alan Turing, um aluno da Universidade de Cambridge, para entender códigos nazistas, incluindo o 'Enigma', que criptógrafos acreditavam ser inquebrável. A equipe de Turing, incluindo Joan Clarke, analisa as mensagens de 'Enigma', enquanto ele constrói uma máquina para decifrá-las. Após desvendar as codificações, Turing se torna herói. Porém, em 1952, autoridades revelam sua homossexualidade, e a vida dele vira um pesadelo.",
+      "genero": "Thriller/Guerra",
+      "classificacao_indicativa": 12,
+      "imagem": "https://t.ctcdn.com.br/Yeq8VifLeoKTiFKmTl35f1wqsV8=/717x228:3089x1563/1200x675/smart/i377595.jpeg",
+      "endereco_do_filme": "https://www.primevideo.com/-/pt/detail/O-Jogo-da-Imita%C3%A7%C3%A3o/0NT355R6Y6RD4Q679V6V6H1H39",
+      "ano_de_lancamento": 2014,
+      "views": 6
+    }
+  ]
 }

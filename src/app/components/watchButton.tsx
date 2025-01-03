@@ -3,16 +3,17 @@ import Link from "next/link"
 interface Botao {
     endereço_do_filme:string
     categoria:"topFilm" | "normal"
-    sinopse: string
+    sinopse: string,
+    onClick: ()=> void
 }
 
-export default function WatchButton({endereço_do_filme, categoria, sinopse}:Botao) {
+export default function WatchButton({endereço_do_filme, categoria, sinopse, onClick }:Botao) {
     
 
     if(categoria=="topFilm") {
         return(
-            <div className="mt-3 bg-none w-52 flex items-center">
-                <Link href={endereço_do_filme} className="transition ease-in-out duration-500 shadow-lg hover:shadow-red-700  group bg-red-500 h-10 w-24 flex items-center justify-center rounded-sm hover:last:">
+            <div className="absolute top-80 ml-24 mt-16 bg-none w-52 flex items-center">
+                <Link  href={endereço_do_filme} className="transition ease-in-out duration-500 shadow-lg hover:shadow-red-700  group bg-red-500 h-10 w-24 flex items-center justify-center rounded-sm hover:last:">
                     <h3 className="text-white font-semibold">Assistir</h3>
                     <div className="flex items-center justify-center group-hover:translate-x-1 transition ease-in-out duration-500">
                             <span className="h-3 w-3 border-r-2 border-b-2 border-white -rotate-45 "></span>
@@ -32,7 +33,7 @@ export default function WatchButton({endereço_do_filme, categoria, sinopse}:Bot
 
     return(
         <div className="mt-3 bg-none w-52 flex items-center">
-            <Link href={endereço_do_filme} className="transition ease-in-out duration-500 shadow-lg hover:shadow-red-700  group bg-red-500 h-10 w-24 flex items-center justify-center rounded-sm hover:last:">
+            <Link onClick={onClick} href={endereço_do_filme} className="transition ease-in-out duration-500 shadow-lg hover:shadow-red-700  group bg-red-500 h-10 w-24 flex items-center justify-center rounded-sm hover:last:">
                 <h3 className="text-white font-semibold">Assistir</h3>
                 <div className="flex items-center justify-center group-hover:translate-x-1 transition ease-in-out duration-500">
                         <span className="h-3 w-3 border-r-2 border-b-2 border-white -rotate-45 "></span>

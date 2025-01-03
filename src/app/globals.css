@@ -8,7 +8,7 @@
   box-sizing: border-box;
 }
 :root {
-  --background: rgb(34,34,37,100%);
+  --background: rgb(23, 23, 23);
   --foreground: #171717;
 }
 
@@ -24,4 +24,9 @@ body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+}
+main {
+  height:max-content;
+  width: max-content;
+  background-color: red;
 }

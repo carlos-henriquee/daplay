@@ -71,3 +71,44 @@ export interface Filme {
         alt="blurry_transition"
       />
     </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    const [topFilm, setTopFilm] = useState<Filme[]>();
+  useEffect(() => {
+     fetch('http://localhost:8000/films?_sort=ano_de_lancamento&_order=desc&_limit=1')
+      .then(async (res) => {
+        const film = await res.json();
+        setTopFilm(film)
+    })  
+  }, []);
+  
